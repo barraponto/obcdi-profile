@@ -26,5 +26,9 @@ projects[zen][patch][] = "http://drupal.org/files/issues/zen-allow-without-datab
 projects[] = tao
 projects[] = rubik
 
+;Drupal captcha support
+projects[] = captcha
+projects[] = recaptcha
+
 ;Embedded Field modules
 projects[] = emfield
