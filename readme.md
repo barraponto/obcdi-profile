@@ -22,9 +22,9 @@ thacker-stub.make with the following contents:
     projects[] = drupal
     api = 2
     
-    projects[thacker][type] = profile
-    projects[thacker][download][type] = git
-    projects[thacker][download][url] = git://github.com/barraponto/obcdi-distro.git
+    projects[obcdi][type] = profile
+    projects[obcdi][download][type] = git
+    projects[obcdi][download][url] = git://github.com/barraponto/obcdi-distro.git
 
 Then run drush make on the makefile, pointing to a path where the drupal root will be installed:
 
