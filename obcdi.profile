@@ -19,13 +19,13 @@ function obcdi_profile_modules() {
     'content', //'text', 'number', 'optionwidgets',
 
     //captcha modules
-    'captcha', 'recaptcha',
+    //'captcha', 'recaptcha',
 
     //image modules
     //'filefield', 'filefield_paths', 'imagefield', 'imageapi', 'imageapi_gd', 'imagecache', 'imagefield_tokens', 
 
     //date modules
-    //'date_popup', 'date', 'calendar', 'jquery_ui',
+    'date_api', 'date_popup', 'date', 'calendar', 'jquery_ui',
 
     //other contrib modules
     'admin', 'adminrole', 'pathauto', 'path_redirect', 'token', 'transliteration', //'vertical_tabs',
